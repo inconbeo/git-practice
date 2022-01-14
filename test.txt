@@ -6,3 +6,6 @@ CHiponi!aaa
 This is a great test!
 
 test pulling code !@@@@
+
+Testing pull request!
+add new line!
